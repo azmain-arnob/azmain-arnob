@@ -57,25 +57,69 @@
 
 <!-- ░░ dynamic project cards — auto-update from the live repos ░░ -->
 
-## 🚀 Projects
+## Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="170" align="center">
+<img src="./assets/labdesk.png" width="150" alt="LabDesk"/>
+</td>
+<td>
 
-<a href="https://github.com/azmain-arnob/Remote_Desktop_Lab_Management-_CSE499A-B">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=azmain-arnob&repo=Remote_Desktop_Lab_Management-_CSE499A-B&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&icon_color=2dd4bf" alt="LabDesk"/>
-</a>
-<a href="https://github.com/azmain-arnob/CSE299-PROJECT-Travelmate-BD---Regional-Tourism-Chatbot-">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=azmain-arnob&repo=CSE299-PROJECT-Travelmate-BD---Regional-Tourism-Chatbot-&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&icon_color=2dd4bf" alt="Travelmate-BD"/>
-</a>
+### LabDesk
+Remote desktop lab-management suite for university computer labs — teacher & student apps, live screen streaming, and exam-mode lockdown.
+`Electron` &nbsp;`WebRTC` &nbsp;`Socket.IO` &nbsp;`SQLite`
+<br/>
+<a href="https://github.com/azmain-arnob/Remote_Desktop_Lab_Management-_CSE499A-B">View Repository →</a>
 
-<a href="https://github.com/azmain-arnob/CSE215.4_Lab_Project_B1">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=azmain-arnob&repo=CSE215.4_Lab_Project_B1&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&icon_color=2dd4bf" alt="CSE215 Java Project"/>
-</a>
-<a href="https://github.com/azmain-arnob/HAMS">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=azmain-arnob&repo=HAMS&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&icon_color=2dd4bf" alt="HAMS"/>
-</a>
+</td>
+</tr>
 
-</div>
+<tr>
+<td width="170" align="center">
+<img src="./assets/travelmate.png" width="150" alt="Travelmate-BD"/>
+</td>
+<td>
+
+### Travelmate-BD
+Regional tourism chatbot for Bangladesh — helps travellers explore destinations across the country.
+`Python` &nbsp;`NLP` &nbsp;`Chatbot`
+<br/>
+<a href="https://github.com/azmain-arnob/CSE299-PROJECT-Travelmate-BD---Regional-Tourism-Chatbot-">View Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="170" align="center">
+<img src="./assets/cse215.png" width="150" alt="CSE215 Java Project"/>
+</td>
+<td>
+
+### CSE215 Java Project
+Object-oriented programming course lab project built in Java.
+`Java` &nbsp;`OOP`
+<br/>
+<a href="https://github.com/azmain-arnob/CSE215.4_Lab_Project_B1">View Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="170" align="center">
+<img src="./assets/hams.png" width="150" alt="HAMS"/>
+</td>
+<td>
+
+### HAMS
+Health/Hospital management system.
+`HTML` &nbsp;`Web`
+<br/>
+<a href="https://github.com/azmain-arnob/HAMS">View Repository →</a>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
