@@ -107,14 +107,12 @@ class Azmain:
 
 <!-- ══════════════════════ STATS ══════════════════════ -->
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=azmain-arnob&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=7AA2F7&icon_color=BB9AF7&text_color=c0caf5&bg_color=1a1b27" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=azmain-arnob&hide_border=true&background=1a1b27&stroke=7AA2F7&ring=BB9AF7&fire=7DCFFF&currStreakLabel=7AA2F7&sideNums=c0caf5&currStreakNum=c0caf5&dates=565f89&sideLabels=c0caf5" alt="streak"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmain-arnob&layout=compact&hide_border=true&langs_count=8&title_color=7AA2F7&text_color=c0caf5&bg_color=1a1b27" alt="top langs"/>
+<!-- Auto-generated daily by the Metrics Dashboard action -->
+<img src="https://raw.githubusercontent.com/azmain-arnob/azmain-arnob/main/metrics.svg" alt="metrics dashboard"/>
 
 </div>
 
