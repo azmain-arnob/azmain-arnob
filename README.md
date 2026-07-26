@@ -1,16 +1,13 @@
 <!--
-  Profile README for github.com/azmain-arnob
-  Put this file in a repo named EXACTLY: azmain-arnob
-  Snake needs a one-time GitHub Action (see snake.yml + setup guide).
-  Everything else is live and auto-updating on its own.
+  Profile README for github.com/azmain-arnob   (repo name must be: azmain-arnob)
+  Everything here is LIVE (auto-updates on its own) EXCEPT the snake,
+  which needs the one-time snake.yml GitHub Action.
 -->
 
 <div align="center">
 
 <!-- ░░ animated name ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=760&height=80&lines=Hi%2C+I'm+Azmain+Iqtidar+Arnob;CSE+%40+North+South+University;NLP+%26+Deep+Learning+Enthusiast;I+build+things+in+Python" alt="typing intro" />
-
-<!-- ░░ bio line ░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Azmain+Iqtidar+Arnob;CSE+%40+North+South+University;NLP+%26+Deep+Learning+Enthusiast;I+build+things+in+Python" alt="typing intro" />
 
 `CS Engineer` · `ML Enthusiast` · `Builder · Learner · Dreamer` · `🇧🇩 Dhaka`
 
@@ -26,20 +23,73 @@
 
 <br/>
 
-<!-- ░░ live stat cards — square aligned ░░ -->
+<!-- ░░ live stats + streak (mirror server to dodge rate limits) ░░ -->
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=azmain-arnob&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=39D353&icon_color=2dd4bf&text_color=c9d1d9&ring_color=39D353" alt="stats"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=azmain-arnob&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=39D353&icon_color=2dd4bf&text_color=c9d1d9&ring_color=39D353" alt="stats"/>
 <img height="170" src="https://streak-stats.demolab.com?user=azmain-arnob&hide_border=true&background=0d1117&stroke=1b3a1b&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=768390" alt="streak"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmain-arnob&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39D353&text_color=c9d1d9" alt="top langs"/>
 
 </div>
 
 <br/>
 
-<!-- ░░ snake contribution (dark green) ░░ -->
+<!-- ░░ languages + activity graph ░░ -->
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azmain-arnob&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39D353&text_color=c9d1d9" alt="top langs"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azmain-arnob&theme=github_dark" alt="repos per language"/>
+
+</div>
+
+<br/>
+
+<!-- ░░ live activity line graph ░░ -->
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azmain-arnob&bg_color=0d1117&color=39D353&line=39D353&point=2dd4bf&area=true&hide_border=true" alt="activity graph" width="98%"/>
+
+</div>
+
+<br/>
+
+<!-- ░░ dynamic project cards — auto-update from the live repos ░░ -->
+
+## 🚀 Projects
+
+<div align="center">
+
+<a href="https://github.com/azmain-arnob/Remote_Desktop_Lab_Management-_CSE499A-B">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=azmain-arnob&repo=Remote_Desktop_Lab_Management-_CSE499A-B&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&icon_color=2dd4bf" alt="LabDesk"/>
+</a>
+<a href="https://github.com/azmain-arnob/CSE299-PROJECT-Travelmate-BD---Regional-Tourism-Chatbot-">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=azmain-arnob&repo=CSE299-PROJECT-Travelmate-BD---Regional-Tourism-Chatbot-&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&icon_color=2dd4bf" alt="Travelmate-BD"/>
+</a>
+
+<a href="https://github.com/azmain-arnob/CSE215.4_Lab_Project_B1">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=azmain-arnob&repo=CSE215.4_Lab_Project_B1&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&icon_color=2dd4bf" alt="CSE215 Java Project"/>
+</a>
+<a href="https://github.com/azmain-arnob/HAMS">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=azmain-arnob&repo=HAMS&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&icon_color=2dd4bf" alt="HAMS"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ░░ trophies (live) ░░ -->
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=azmain-arnob&theme=darkhub&no-frame=true&column=7&margin-w=6&margin-h=6" alt="trophies" width="98%"/>
+
+</div>
+
+<br/>
+
+<!-- ░░ snake contribution (needs snake.yml action) ░░ -->
 
 <div align="center">
 
