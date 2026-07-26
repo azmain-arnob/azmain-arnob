@@ -123,16 +123,6 @@ Health/Hospital management system.
 
 <br/>
 
-<!-- ░░ trophies (live) ░░ -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=azmain-arnob&theme=darkhub&no-frame=true&column=7&margin-w=6&margin-h=6" alt="trophies" width="98%"/>
-
-</div>
-
-<br/>
-
 <!-- ░░ snake contribution (needs snake.yml action) ░░ -->
 
 <div align="center">
