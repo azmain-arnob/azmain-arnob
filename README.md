@@ -84,7 +84,7 @@ Remote desktop lab-management suite for university computer labs — teacher & s
 </td>
 <td>
 
-### Travelmate-BD
+### Tourism RAG Chatbot
 Regional tourism chatbot for Bangladesh — helps travellers explore destinations across the country.
 `Python` &nbsp;`NLP` &nbsp;`Chatbot`
 <br/>
@@ -99,20 +99,6 @@ Regional tourism chatbot for Bangladesh — helps travellers explore destination
 </td>
 <td>
 
-### CSE215 Java Project
-Object-oriented programming course lab project built in Java.
-`Java` &nbsp;`OOP`
-<br/>
-<a href="https://github.com/azmain-arnob/CSE215.4_Lab_Project_B1">View Repository →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="170" align="center">
-<img src="./assets/hams.png" width="150" alt="HAMS"/>
-</td>
-<td>
 
 ### HAMS
 Health/Hospital management system.
