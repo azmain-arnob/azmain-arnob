@@ -69,7 +69,7 @@
 </td>
 <td>
 
-### LabDesk
+### LabDesk Agentic AI
 Remote desktop lab-management suite for university computer labs — teacher & student apps, live screen streaming, and exam-mode lockdown.
 `Electron` &nbsp;`WebRTC` &nbsp;`Socket.IO` &nbsp;`SQLite`
 <br/>
@@ -100,7 +100,7 @@ Regional tourism chatbot for Bangladesh — helps travellers explore destination
 <td>
 
 
-### HAMS
+### HAMS - Hospital Managemnet
 Health/Hospital management system.
 `HTML` &nbsp;`Web`
 <br/>
