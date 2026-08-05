@@ -77,7 +77,7 @@
 
 <td>
 
-### 🖥️ LabDesk: Agentic AI-Powered Screen Monitoring System
+###  LabDesk: Agentic AI-Powered Screen Monitoring System
 
 Remote desktop management platform for educational computer labs featuring live monitoring, remote control, screen sharing, exam mode, classroom automation, and AI-powered assistance.
 
@@ -104,7 +104,7 @@ Remote desktop management platform for educational computer labs featuring live 
 
 <td>
 
-### ☁️ Aether: Cloud Infrastructure System
+###  Aether: Cloud Infrastructure System
 
 Production-ready cloud application focused on scalable deployment, containerization, CI/CD automation, monitoring, and modern cloud architecture.
 
@@ -127,7 +127,7 @@ Production-ready cloud application focused on scalable deployment, containerizat
 
 <td>
 
-### 🧠 VisionGuard: Fundus Image Disease Detection using ML & DL
+###  VisionGuard: Fundus Image Disease Detection using ML & DL
 
 Deep learning system for automated retinal disease classification from retinal fundus images using convolutional neural networks.
 
@@ -152,7 +152,7 @@ Deep learning system for automated retinal disease classification from retinal f
 
 <td>
 
-### 🤖 TourBot: RAG Based Travel Assistant
+###  TourBot: RAG Based Travel Assistant
 
 Retrieval-Augmented Generation chatbot that helps travellers explore destinations and local information across Bangladesh.
 
@@ -177,7 +177,7 @@ Retrieval-Augmented Generation chatbot that helps travellers explore destination
 
 <td>
 
-### 🏥 HAMS: Hospital Management System
+###  HAMS: Hospital Management System
 
 NoSQL-based hospital management system designed for managing patient records, appointments, medical data, and administrative workflows with a scalable database architecture.
 
