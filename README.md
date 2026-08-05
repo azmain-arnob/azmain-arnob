@@ -99,7 +99,7 @@ Remote desktop management platform for educational computer labs featuring live 
 
 <tr>
 <td width="170" align="center">
-<img src="./assets/cloud-infrastructure.png" width="150" alt="Cloud Infrastructure Project"/>
+<img src="./assets/cloud-infrastructure1.png" width="150" alt="Cloud Infrastructure Project"/>
 </td>
 
 <td>
