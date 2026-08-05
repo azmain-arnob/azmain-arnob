@@ -72,7 +72,7 @@
 
 <tr>
 <td width="170" align="center">
-<img src="./assets/labdesk.png" width="150" alt="LabDesk"/>
+<img src="./assets/labdesk-agentic-ai.png" width="150" alt="LabDesk Agentic AI"/>
 </td>
 
 <td>
@@ -86,9 +86,11 @@ Remote desktop management platform for educational computer labs featuring live 
 
 <br/>
 
-<a href="https://github.com/azmain-arnob/Remote_Desktop_Lab_Management-_CSE499A-B">
-View Repository →
-</a>
+<img src="https://img.shields.io/badge/🔒_Private_Repository-555555?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+
+<br/><br/>
+
+> Developed as an academic capstone project. The source code is currently private in accordance with project supervision requirements.
 
 </td>
 </tr>
@@ -97,7 +99,7 @@ View Repository →
 
 <tr>
 <td width="170" align="center">
-<img src="./assets/cloud.png" width="150" alt="Cloud Project"/>
+<img src="./assets/cloud-infrastructure.png" width="150" alt="Cloud Infrastructure Project"/>
 </td>
 
 <td>
@@ -111,7 +113,7 @@ Production-ready cloud application focused on scalable deployment, containerizat
 
 <br/>
 
-🚧 **Currently Under Development**
+<img src="https://img.shields.io/badge/🚧_Currently_Under_Development-FF9800?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
 
 </td>
 </tr>
@@ -134,18 +136,18 @@ Deep learning system for automated retinal disease classification from retinal f
 
 <br/>
 
-<a href="https://github.com/azmain-arnob/YOUR-REPOSITORY">
-View Repository →
+<a href="https://github.com/azmain-arnob/RetinaScan">
+<img src="https://img.shields.io/badge/🧠_Explore_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 
 </td>
 </tr>
 
-<!-- ==================== TravelMate ==================== -->
+<!-- ==================== Tourism RAG ==================== -->
 
 <tr>
 <td width="170" align="center">
-<img src="./assets/travelmate.png" width="150" alt="TravelMate"/>
+<img src="./assets/tourism-rag-chatbot.png" width="150" alt="Tourism RAG Chatbot"/>
 </td>
 
 <td>
@@ -160,7 +162,7 @@ Retrieval-Augmented Generation chatbot that helps travellers explore destination
 <br/>
 
 <a href="https://github.com/azmain-arnob/CSE299-PROJECT-Travelmate-BD---Regional-Tourism-Chatbot-">
-View Repository →
+<img src="https://img.shields.io/badge/🤖_Explore_Project-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 
 </td>
@@ -170,14 +172,14 @@ View Repository →
 
 <tr>
 <td width="170" align="center">
-<img src="./assets/cse215.png" width="150" alt="HAMS"/>
+<img src="./assets/hams.png" width="150" alt="Hospital Management System"/>
 </td>
 
 <td>
 
 ### 🏥 Hospital Management System
 
-Web-based hospital management system for handling patient records, appointments, and administrative workflows.
+Web-based hospital management system for managing patient records, appointments, and administrative workflows.
 
 **🛠 Tech Stack**  
 `HTML` &nbsp; `CSS` &nbsp; `JavaScript`
@@ -185,7 +187,7 @@ Web-based hospital management system for handling patient records, appointments,
 <br/>
 
 <a href="https://github.com/azmain-arnob/HAMS">
-View Repository →
+<img src="https://img.shields.io/badge/🏥_Explore_Project-E11D48?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 
 </td>
