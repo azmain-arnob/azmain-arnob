@@ -10,7 +10,7 @@
 <img src="./assets/intro.gif" width="380" alt="Azmain intro"/>
 
 <!-- ░░ animated name ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Azmain+Iqtidar+Arnob;CSE+%40+North+South+University;NLP+%26+Building+Practical+Software;Exploring+AI+ML+and+Cloud" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Azmain+Iqtidar+Arnob;CSE+%40+North+South+University;Building+Practical+Software;Exploring+AI+ML+and+Cloud" alt="typing intro" />
 
 `Aspiring Software Engineer` · `Cloud & AI Enthusiast` · `Builder · Learner · Dreamer` · `🇧🇩 Dhaka`
 
