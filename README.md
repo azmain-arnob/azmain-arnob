@@ -77,7 +77,7 @@
 
 <td>
 
-###  LabDesk: Agentic AI-Powered Screen Monitoring System
+###  LabDesk: Agentic AI-Powered Screen Monitoring Software
 
 Remote desktop management platform for educational computer labs featuring live monitoring, remote control, screen sharing, exam mode, classroom automation, and AI-powered assistance.
 
