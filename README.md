@@ -60,55 +60,138 @@
 
 <!-- ░░ dynamic project cards — auto-update from the live repos ░░ -->
 
-## Projects
+<!-- ░░ Featured Projects ░░ -->
+
+# 🚀 Featured Projects
+
+> Building practical software across **Software Engineering**, **Cloud Computing**, and **Artificial Intelligence**.
 
 <table>
+
+<!-- ==================== LabDesk ==================== -->
+
 <tr>
 <td width="170" align="center">
 <img src="./assets/labdesk.png" width="150" alt="LabDesk"/>
 </td>
+
 <td>
 
-### LabDesk Agentic AI
-Remote desktop lab-management suite for university computer labs — teacher & student apps, live screen streaming, and exam-mode lockdown.
-`Electron` &nbsp;`WebRTC` &nbsp;`Socket.IO` &nbsp;`SQLite`
+### 🖥️ LabDesk Agentic AI
+
+Remote desktop management platform for educational computer labs featuring live monitoring, remote control, screen sharing, exam mode, classroom automation, and AI-powered assistance.
+
+**🛠 Tech Stack**  
+`Electron` &nbsp; `WebRTC` &nbsp; `Socket.IO` &nbsp; `SQLite`
+
 <br/>
-<a href="https://github.com/azmain-arnob/Remote_Desktop_Lab_Management-_CSE499A-B">View Repository →</a>
+
+<a href="https://github.com/azmain-arnob/Remote_Desktop_Lab_Management-_CSE499A-B">
+View Repository →
+</a>
 
 </td>
 </tr>
+
+<!-- ==================== Cloud ==================== -->
 
 <tr>
 <td width="170" align="center">
-<img src="./assets/travelmate.png" width="150" alt="Travelmate-BD"/>
+<img src="./assets/cloud.png" width="150" alt="Cloud Project"/>
 </td>
+
 <td>
 
-### Tourism RAG Chatbot
-Regional tourism chatbot for Bangladesh — helps travellers explore destinations across the country.
-`Python` &nbsp;`NLP` &nbsp;`Chatbot`
+### ☁️ Cloud Infrastructure Project
+
+Production-ready cloud application focused on scalable deployment, containerization, CI/CD automation, monitoring, and modern cloud architecture.
+
+**🛠 Tech Stack**  
+`AWS` &nbsp; `Docker` &nbsp; `GitHub Actions`
+
 <br/>
-<a href="https://github.com/azmain-arnob/CSE299-PROJECT-Travelmate-BD---Regional-Tourism-Chatbot-">View Repository →</a>
+
+🚧 **Currently Under Development**
 
 </td>
 </tr>
+
+<!-- ==================== VisionGuard ==================== -->
 
 <tr>
 <td width="170" align="center">
-<img src="./assets/cse215.png" width="150" alt="CSE215 Java Project"/>
+<img src="./assets/visionguard.png" width="150" alt="VisionGuard"/>
 </td>
+
 <td>
 
+### 🧠 VisionGuard
 
-### HAMS - Hospital Managemnet
-Health/Hospital management system.
-`HTML` &nbsp;`Web`
+Deep learning system for automated retinal disease classification from retinal fundus images using convolutional neural networks.
+
+**🛠 Tech Stack**  
+`Python` &nbsp; `TensorFlow` &nbsp; `OpenCV` &nbsp; `CNN`
+
 <br/>
-<a href="https://github.com/azmain-arnob/HAMS">View Repository →</a>
+
+<a href="https://github.com/azmain-arnob/YOUR-REPOSITORY">
+View Repository →
+</a>
 
 </td>
 </tr>
-</table>  
+
+<!-- ==================== TravelMate ==================== -->
+
+<tr>
+<td width="170" align="center">
+<img src="./assets/travelmate.png" width="150" alt="TravelMate"/>
+</td>
+
+<td>
+
+### 🤖 Tourism RAG Chatbot
+
+Retrieval-Augmented Generation chatbot that helps travellers explore destinations and local information across Bangladesh.
+
+**🛠 Tech Stack**  
+`Python` &nbsp; `LangChain` &nbsp; `FAISS` &nbsp; `LLM`
+
+<br/>
+
+<a href="https://github.com/azmain-arnob/CSE299-PROJECT-Travelmate-BD---Regional-Tourism-Chatbot-">
+View Repository →
+</a>
+
+</td>
+</tr>
+
+<!-- ==================== HAMS ==================== -->
+
+<tr>
+<td width="170" align="center">
+<img src="./assets/cse215.png" width="150" alt="HAMS"/>
+</td>
+
+<td>
+
+### 🏥 Hospital Management System
+
+Web-based hospital management system for handling patient records, appointments, and administrative workflows.
+
+**🛠 Tech Stack**  
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript`
+
+<br/>
+
+<a href="https://github.com/azmain-arnob/HAMS">
+View Repository →
+</a>
+
+</td>
+</tr>
+
+</table>
 
 <br/>
 
