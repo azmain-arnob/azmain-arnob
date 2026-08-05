@@ -72,7 +72,7 @@
 
 <tr>
 <td width="170" align="center">
-<img src="./assets/labdesk-agentic-ai.png" width="150" alt="LabDesk Agentic AI"/>
+<img src="./assets/labdesk.png" width="150" alt="LabDesk Agentic AI"/>
 </td>
 
 <td>
@@ -147,7 +147,7 @@ Deep learning system for automated retinal disease classification from retinal f
 
 <tr>
 <td width="170" align="center">
-<img src="./assets/tourism-rag-chatbot.png" width="150" alt="Tourism RAG Chatbot"/>
+<img src="./assets/travelmate.png" width="150" alt="Tourism RAG Chatbot"/>
 </td>
 
 <td>
