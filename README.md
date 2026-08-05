@@ -12,7 +12,7 @@
 <!-- ░░ animated name ░░ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Azmain+Iqtidar+Arnob;CSE+%40+North+South+University;NLP+%26+Deep+Learning+Enthusiast;I+build+things+in+Python" alt="typing intro" />
 
-`CS Engineer` · `ML Enthusiast` · `Builder · Learner · Dreamer` · `🇧🇩 Dhaka`
+`Aspiring Software Engineer` · `Cloud & ML Enthusiast` · `Builder · Learner · Dreamer` · `🇧🇩 Dhaka`
 
 <br/>
 
