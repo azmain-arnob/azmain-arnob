@@ -37,12 +37,11 @@
 
 <br/>
 
-<!-- ░░ languages + activity graph ░░ -->
+<!-- ░░ top languages ░░ -->
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azmain-arnob&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39D353&text_color=c9d1d9" alt="top langs"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azmain-arnob&theme=github_dark" alt="repos per language"/>
+<img width="430" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azmain-arnob&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39D353&text_color=c9d1d9" alt="top languages"/>
 
 </div>
 
