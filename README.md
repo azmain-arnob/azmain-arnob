@@ -17,6 +17,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/azmain-arnob7/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39D353" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Azmain_Iqtidar_Arnob/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=39D353" alt="LeetCode"/></a>
 <a href="https://x.com/Azmain_7"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=39D353" alt="X"/></a>
 <a href="https://www.instagram.com/az_main_7/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=39D353" alt="Instagram"/></a>
 <a href="https://www.facebook.com/azmain.iqtidar.5"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=39D353" alt="Facebook"/></a>
@@ -193,6 +194,26 @@ NoSQL-based hospital management system designed for managing patient records, ap
 </tr>
 
 </table>
+
+<br/>
+
+<!-- ░░ Problem Solving — LIVE, auto-updates from LeetCode ░░ -->
+
+#  Problem Solving
+
+> Data structures & algorithms practice. The card below pulls live from my LeetCode profile — solved counts, difficulty split and ranking update on their own.
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Azmain_Iqtidar_Arnob/">
+<img src="https://leetcard.jacoblin.cool/Azmain_Iqtidar_Arnob?theme=dark&font=JetBrains_Mono&ext=heatmap&border=0&radius=12" alt="Azmain's LeetCode stats"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Azmain_Iqtidar_Arnob/"><img src="https://img.shields.io/badge/Solve_with_me_on_LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=39D353" alt="LeetCode profile"/></a>
+
+</div>
 
 <br/>
 
