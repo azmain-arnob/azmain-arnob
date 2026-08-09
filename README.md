@@ -127,7 +127,6 @@
 
 ###  VisionGuard: Fundus Image Disease Detection using ML & DL
 
-Deep learning system for automated retinal disease classification from retinal fundus images using convolutional neural networks.
 
 **🛠 Tech Stack**  
 `Python` &nbsp; `TensorFlow` &nbsp; `OpenCV` &nbsp; `CNN`
