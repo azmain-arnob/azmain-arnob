@@ -77,9 +77,8 @@
 
 <td>
 
-###  LabDesk: Agentic AI-Powered Screen Monitoring Software
+###  LabDesk: Agentic AI Powered Screen Monitoring Software
 
-Remote desktop management platform for educational computer labs featuring live monitoring, remote control, screen sharing, exam mode, classroom automation, and AI-powered assistance.
 
 **🛠 Tech Stack**  
 `Electron` &nbsp; `WebRTC` &nbsp; `Socket.IO` &nbsp; `SQLite`
@@ -88,9 +87,9 @@ Remote desktop management platform for educational computer labs featuring live 
 
 <img src="https://img.shields.io/badge/🔒_Private_Repository-555555?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 
-<br/><br/>
+<br/>
 
-> Developed as an academic capstone project. The source code is currently private in accordance with project supervision requirements.
+> The source code is currently private in accordance with project supervision requirements.
 
 </td>
 </tr>
@@ -106,7 +105,6 @@ Remote desktop management platform for educational computer labs featuring live 
 
 ###  Aether: Cloud Infrastructure System
 
-Production-ready cloud application focused on scalable deployment, containerization, CI/CD automation, monitoring, and modern cloud architecture.
 
 **🛠 Tech Stack**  
 `AWS` &nbsp; `Docker` &nbsp; `GitHub Actions`
@@ -154,7 +152,6 @@ Deep learning system for automated retinal disease classification from retinal f
 
 ###  TourBot: RAG Based Travel Assistant
 
-Retrieval-Augmented Generation chatbot that helps travellers explore destinations and local information across Bangladesh.
 
 **🛠 Tech Stack**  
 `Python` &nbsp; `LangChain` &nbsp; `FAISS` &nbsp; `LLM`
@@ -177,9 +174,8 @@ Retrieval-Augmented Generation chatbot that helps travellers explore destination
 
 <td>
 
-###  HAMS: Hospital Management System
+###  HAMS: Hospital Appointment Management System
 
-NoSQL-based hospital management system designed for managing patient records, appointments, medical data, and administrative workflows with a scalable database architecture.
 
 **🛠 Tech Stack**  
 `MongoDB` &nbsp; `Node.js` &nbsp; `Express.js` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript`
@@ -207,7 +203,7 @@ NoSQL-based hospital management system designed for managing patient records, ap
 <img src="https://leetcard.jacoblin.cool/Azmain_Iqtidar_Arnob?theme=dark&font=JetBrains_Mono&ext=heatmap&border=0&radius=12" alt="Azmain's LeetCode stats"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://leetcode.com/u/Azmain_Iqtidar_Arnob/"><img src="https://img.shields.io/badge/Solve_with_me_on_LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=39D353" alt="LeetCode profile"/></a>
 
