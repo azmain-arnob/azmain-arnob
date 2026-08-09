@@ -199,9 +199,7 @@ NoSQL-based hospital management system designed for managing patient records, ap
 
 <!-- ░░ Problem Solving — LIVE, auto-updates from LeetCode ░░ -->
 
-#  Problem Solving
 
-> Data structures & algorithms practice. The card below pulls live from my LeetCode profile — solved counts, difficulty split and ranking update on their own.
 
 <div align="center">
 
