@@ -1,0 +1,57 @@
+name: refresh profile assets
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"    # every three hours
+  workflow_dispatch:          # or whenever you press Run workflow
+  push:
+    branches:
+      - main
+
+jobs:
+  refresh:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Render stats.svg from live GitHub data
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+          OUT: /tmp/gen/stats.svg
+        run: |
+          mkdir -p /tmp/gen
+          python scripts/stats.py
+
+      - name: Render breakout.svg from the contribution graph
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: ${{ github.repository_owner }}
+          ball_color: "#7FE3FF"
+          paddle_color: "#3E8CFF"
+          bricks_colors: "#0E2246,#1B3E7A,#2A63C0,#3E8CFF,#7FE3FF"
+
+      - name: Stash both SVGs outside the working tree
+        run: cp output/custom.svg /tmp/gen/breakout.svg 2>/dev/null || cp output/dark.svg /tmp/gen/breakout.svg
+
+      - name: Force-push them to the assets branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan assets
+          git rm -rf . > /dev/null
+          mkdir images
+          cp /tmp/gen/stats.svg /tmp/gen/breakout.svg images/
+          git add images
+          git commit -m "chore: refresh profile assets" || echo "nothing changed"
+          git push --force origin assets
