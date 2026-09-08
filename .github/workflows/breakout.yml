@@ -1,0 +1,45 @@
+name: generate breakout svg
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice a day
+  workflow_dispatch:          # and whenever you press the button
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate breakout SVG from the contribution graph
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: ${{ github.repository_owner }}
+          ball_color: "#7FE3FF"
+          paddle_color: "#3E8CFF"
+          bricks_colors: "#0E2246,#1B3E7A,#2A63C0,#3E8CFF,#7FE3FF"
+
+      - name: Stash the SVG outside the working tree
+        run: |
+          mkdir -p /tmp/breakout
+          cp output/custom.svg /tmp/breakout/breakout.svg 2>/dev/null || cp output/dark.svg /tmp/breakout/breakout.svg
+
+      - name: Force-push it to the github-breakout branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan github-breakout
+          git rm -rf . > /dev/null
+          mkdir images
+          cp /tmp/breakout/breakout.svg images/breakout.svg
+          git add images
+          git commit -m "chore: update breakout svg" || echo "nothing changed"
+          git push --force origin github-breakout
