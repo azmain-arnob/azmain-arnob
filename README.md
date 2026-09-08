@@ -17,15 +17,7 @@
 
 <img src="./projects.svg" alt="LabDesk, HAMS, Travelmate BD and VisionGuard" width="100%">
 
-<p align="center">
-  <sub>
-    <a href="https://github.com/azmain-arnob/CSE299-PROJECT-Travelmate-BD---Regional-Tourism-Chatbot-">Travelmate BD repo</a>
-    &nbsp;·&nbsp;
-    <b>Thesis</b> — instance-aware object removal and background reconstruction
-    (<code>YOLOv8</code> + <code>SAM</code> + <code>LaMa</code>), with a residual-aware metric that
-    re-detects objects in the reconstructed image to measure how complete a removal really is.
-  </sub>
-</p>
+
 
 <h3 align="center">GitHub, live</h3>
 
